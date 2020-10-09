@@ -1,0 +1,23 @@
+header{ 
+    height: 100px;
+    background-color: slategray;
+}
+div{    
+    overflow: hidden;
+}
+aside{    
+    width: 30%;
+    background-color: springgreen;
+    height: 400px;
+    float: left;
+}
+article{  
+    width: 70%;
+    background-color: darkorange;
+    height: 400px; 
+    float: right; 
+}
+footer{ 
+    height: 100px;
+    background-color: blueviolet;
+}
